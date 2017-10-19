@@ -2,7 +2,6 @@
 #define DFROBOT_BME680_H
 
 #include "Arduino.h"
-#include "SPI.h"
 #include "Wire.h"
 
 #define BME680_SEALEVEL 1013.25f
